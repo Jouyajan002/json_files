@@ -48,7 +48,7 @@
       "position_title": "مشاور تغذیه",
       "organization": "خدمات صحی آغا خان افغانستان (AKHS-A)",
       "location": "ولایت تخار، مرکز صحت حصار سوموچ",
-      "category": "صحت او تغذیه",
+      "category": "صحت و تغذیه",
       "employment_type": "کامل‌وقت",
       "salary": "مطابق معاشات نهاد",
       "number_of_jobs": 1,
@@ -58,6 +58,37 @@
       "contract_duration": "پروژه‌ای (تا ۲۷ می ۲۰۲۵)",
       "close_date": "۲۰۲۵-۰۵-۲۷",
       "description": "وظایف: مشاورهٔ فردی و گروهی تغذیه برای کودکان زیر ۵ سال و زنان باردار/شیرده؛ غربالگری تغذیه‌ای؛ پایش رشد؛ نگهداری سوابق و تدوین پلان‌های تغذیه‌ای."
+    },
+    {
+      "position_title": "کارشناس نصب I-Trellis به‌صورت منطقه‌ای (قرارداد ۲ ماهه)",
+      "organization": "Sheen Zar Agriculture Trading Company",
+      "location": "ولایت تخار",
+      "category": "زراعت",
+      "employment_type": "تمام‌وقت",
+      "salary": "۳۰۰ دلار در ماه",
+      "vacancy_number": "SZR_HRT_25285",
+      "number_of_jobs": 7,
+      "gender": "مرد",
+      "education": "لیسانس در زراعت، باغداری، مهندسی عمران یا رشته‌های مرتبط",
+      "experience": "حداقل ۳ سال تجربه در سیستم‌های trellising، مدیریت باغ‌های انگور/میوه یا زیرساخت‌های باغداری",
+      "contract_duration": "۲ ماه (با امکان تمدید ۱ ماهه)",
+      "close_date": "۲۰۲۵-۰۶-۱۰",
+      "description": "نصب سیستم‌های I-trellis برای باغ‌های انگور و میوه با تراکم بالا در ولایات مختلف افغانستان به‌منظور افزایش بهره‌وری و پایداری زراعت."
+    },
+    {
+      "position_title": "همکار نظارت میدانی (زراعت)",
+      "organization": "Afghan Australian Research and Management Consulting",
+      "location": "ولایت تخار",
+      "category": "زراعت، نظارت و ارزیابی",
+      "employment_type": "تمام‌وقت",
+      "salary": "رقابتی",
+      "vacancy_number": "ARM-16-2025",
+      "gender": "مرد",
+      "education": "لیسانس در زراعت",
+      "experience": "۵ سال",
+      "contract_duration": "۱ ماه",
+      "close_date": "۲۰۲۵-۰۶-۰۶",
+      "description": "اجرای برنامه‌های نظارتی از طریق بازدیدهای میدانی برنامه‌ریزی‌شده در سطح ولسوالی‌ها و قریه‌ها در سراسر ۳۴ ولایت افغانستان."
     }
   ]
 }
