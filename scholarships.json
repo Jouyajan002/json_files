@@ -1,0 +1,39 @@
+{
+  "scholarships": [
+    {
+      "title": "بورسیه بنیاد بیل گیتس",
+      "university": "دانشگاه کمبریج",
+      "location": "انگلستان",
+      "degree": "ماستری و دکتری",
+      "number_of_scholarships": 80,
+      "benefits": [
+        "پرداخت فیس دانشگاه",
+        "مصارف سالانه ۲۰هزار پوند",
+        "مصارف سفر",
+        "مصارف فامیل",
+        "مصارف ویزا",
+        "مصارف اشتراک در کنفرانس‌ها"
+      ],
+      "registration_deadline": "2026-01-31",
+      "details_link": "https://o4af.com/opportunity/gates-cambridge-scholarship",
+      "icon_url": "https://flagcdn.com/w320/gb.png"
+    },
+    {
+      "title": "بورسیه بانک انکشاف آسیا",
+      "university": "دانشگاه‌های مختلف",
+      "location": "آمریکا، هانگ‌کانگ، پاکستان، تایلند، جاپان، هند، سنگاپور، فیلیپین",
+      "degree": "ماستری",
+      "number_of_scholarships": 150,
+      "benefits": [
+        "پرداخت فیس دانشگاه",
+        "مصارف ماهانه برای سکونت و غذا",
+        "مصارف کتاب و قرطاسیه",
+        "مصارف صحی",
+        "مصارف سفر"
+      ],
+      "registration_deadline": "2025-12-31",
+      "details_link": "https://o4af.com/opportunity/adb-jsp-scholarships",
+      "icon_url": "https://flagcdn.com/w320/jp.png"
+    }
+  ]
+}
