@@ -121,6 +121,38 @@
       "contract_duration": "یک سال",
       "close_date": "۲۰۲۵-۱۱-۱۰",
       "description": "وبلاگ مطالب علمی و تفریحی سایت دیم.اف را نشر کنید و از هر کلیک پول دریافت کنید. سایت دیم.اف بابت هر هزار کلیک مبلغ ۲۰ افغانی برای دارنده‌گان صفحه فیسبوک پرداخت می‌کند."
+    },
+    {
+      "position_title": "Midwife (34 Provinces)",
+      "organization": "ISDR",
+      "location": "ولایت تخار و سایر استان‌ها",
+      "category": "Health Care Management Communication",
+      "employment_type": "تمام‌وقت",
+      "salary": "مطابق مقیاس حقوق ISDR",
+      "vacancy_number": "Midwife-ISDR-2025/06",
+      "number_of_jobs": 34,
+      "gender": "زن",
+      "education": "سطح میدوایف (Midwife degree)",
+      "experience": "حداقل ۱ سال تجربه",
+      "contract_duration": "۱۲ ماه",
+      "close_date": "۲۰۲۵-۰۶-۳۰",
+      "description": "ارائه خدمات بالینی، آموزش خانم‌ها و جوامع، هماهنگی با مراکز صحی، پیگیری کیفیت خدمات و ارجاع موارد."
+    },
+    {
+      "position_title": "Construction Engineer",
+      "organization": "ACDO",
+      "location": "ولایت تخار (تالقان و ولسوالی‌ها)",
+      "category": "مهندسی",
+      "employment_type": "تمام‌وقت",
+      "salary": "مطابق مقیاس حقوق ACDO",
+      "vacancy_number": "VA-24-2025",
+      "number_of_jobs": 2,
+      "gender": "مرد",
+      "education": "لیسانس مهندسی عمران",
+      "experience": "حداقل ۶ سال تجربه مرتبط",
+      "contract_duration": "۶ ماه",
+      "close_date": "۲۰۲۵-۰۶-۲۷",
+      "description": "کنترل کیفیت ساخت‌وساز مدارس، نظارت QA/QC، هماهنگی با پیمانکاران، تهیه گزارش‌ها و تضمین تطبیق نقشه‌ها."
     }
   ]
 }
